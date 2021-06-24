@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-###[Website](https://jerome-graves.github.io/)
+[###Website](https://jerome-graves.github.io/)
+
 
 - 🔭 I’m currently working on __high-speed thermal printers__.
 - 🌱 I’m currently learning __VHDL / Phaser.js / OpenMV / VUE.js / DSP__.
@@ -8,7 +9,6 @@
 - 📫 How to reach me: __jerome.a.graves@gmail.com__.
 - 😄 Pronouns: __Mr__.
 - ⚡ Fun fact: __I like turtles__.
-- https://jerome-graves.github.io/
 <!--
 **Jerome-Graves/Jerome-Graves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...

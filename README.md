@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[### Website](https://jerome-graves.github.io/)
+[jerome-graves.github.io](https://jerome-graves.github.io/)
 
 
 - 🔭 I’m currently working on __high-speed thermal printers__.

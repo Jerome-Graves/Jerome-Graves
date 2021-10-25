@@ -36,7 +36,7 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 
 <div align="center" style= "grid-auto-rows: 200px;padding:5px">
   <img width=45% height=200px style="object-fit: cover;margin:5px;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" /><img  width=45% height=200px style="object-fit: cover;margin:5px;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
-  <img width=45% style="object-fit: cover;margin:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />  <img width=45% style="object-fit: cover;margin:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />
+  <img width=45% style="object-fit: cover;margin:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />  <img width=45% style="object-fit: cover;margin:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
 </div>
 
 <div align="center" style= "grid-auto-rows: 200px;padding:5px">

@@ -36,22 +36,22 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 
 
 <div style= "display: grid;grid-auto-rows: 200px;padding:5px">
-  <img  width=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" />
+  <img  width=100% height=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" />
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />
 </div>
 
 <div style= "display: grid;grid-auto-rows: 200px;padding:5px">
-  <img  width=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
+  <img  width=100% height=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
   <img  width=100%   src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
 </div>
 
 <div style= "display: grid;grid-auto-rows: 200px;padding:5px">
-  <img  width=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" />
+  <img  width=100% height=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" />
   <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" />
 </div>
 
 <div style= "display: grid;grid-auto-rows: 200px;padding:5px">
-  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
+  <img  width=100% height=100% style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
   <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=Phaser3-Parallax-Example" />
 </div>
 

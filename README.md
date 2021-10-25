@@ -37,7 +37,8 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 <div align="center" style= "grid-auto-rows: 200px;padding:5px">
   <a href="https://github.com/Jerome-Graves/RobotDog">
   <img  hspace="20" width=40% height=300px style="padding:5px;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" /></a> <a href="https://github.com/Jerome-Graves/aframe-vue-elephant-head"><img hspace="20"  width=40% height=300px style="object-fit: cover;padding:5px;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" /></a>
-  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />  
+  <a href="https://github.com/Jerome-Graves/RobotDog">
+  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" /></a><a href="https://github.com/Jerome-Graves/aframe-vue-elephant-head"><img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" /> </a> 
 </div>
 
 <div align="center" style= "grid-auto-rows: 200px;padding:5px">

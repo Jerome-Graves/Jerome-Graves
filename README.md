@@ -31,8 +31,6 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 <h1  align="center"><b> Projects </b></h1>
 
 
-<div style= "display: grid;grid-template-columns: 2fr 2fr;">
-
 
 
 <div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
@@ -40,23 +38,22 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
   <img width=50%  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />
 </div>
 
-<div style= "display: grid;grid-auto-rows: 200px;padding:5px">
+<div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
   <img  width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
   <img  width=50%   src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
 </div>
 
-<div style= "display: grid;grid-auto-rows: 200px;padding:5px">
+<div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
   <img  width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" />
   <img  width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" />
 </div>
 
-<div style= "display: grid;grid-auto-rows: 200px;padding:5px">
+<div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
   <img  width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
   <img  width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=Phaser3-Parallax-Example" />
 </div>
 
 
-</div>
 
 </div>
 

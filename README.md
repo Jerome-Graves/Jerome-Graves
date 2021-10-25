@@ -20,7 +20,7 @@ I'm <b>mechatronic engineer</b> currently working in the <b>mechanical engeneeri
 <div align="center" style="margin: auto;width:auto;padding:5px;">
 
 
-<div  style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
+<div  style=" display:inline-block; width: 40%; height: 40%; overflow: hidden;padding:10px;">
 
   <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" />
 <br>
@@ -30,6 +30,23 @@ I'm <b>mechatronic engineer</b> currently working in the <b>mechanical engeneeri
 
 
 
+<div style="width: 80%; height: 40%; overflow: hidden;padding:10px;">
+
+  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
+<br>
+  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
+</div>
+
+<div style="width: 80%; height: 40%; overflow: hidden;padding:10px;">
+
+  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" />
+<br>
+  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" />
+</div>
+
+
+<!--
+
 <div style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
 
   <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
@@ -38,28 +55,8 @@ I'm <b>mechatronic engineer</b> currently working in the <b>mechanical engeneeri
 Phaser3-Parallax-Example" />
 </div>
 
-
-
-<div style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
-
-  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
-<br>
-  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
+-->
 </div>
-
-<div style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
-
-  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" />
-<br>
-  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" />
-</div>
-
-
-
-</div>
-
-
-<br>
 
 
 <!--

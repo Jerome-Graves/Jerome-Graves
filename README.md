@@ -15,7 +15,6 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 <h1 align="center">What I Use</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -37,17 +36,17 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
   <img width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" />
   <img width=50%  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />
 </div>
-
+<br>
 <div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
   <img  width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
   <img  width=50%   src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
 </div>
-
+<br>
 <div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
   <img  width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" />
   <img  width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" />
 </div>
-
+<br>
 <div align="center" style= "display: grid;grid-auto-rows: 200px;padding:5px">
   <img  width=50% height=200px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
   <img  width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=Phaser3-Parallax-Example" />
@@ -58,9 +57,4 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 </div>
 
 
-
-<div align="center">
-
-<img src= "https://github-readme-stats.vercel.app/api?username=Jerome-Graves&hide=contribs,prs&theme=radical" />
-<div>
 

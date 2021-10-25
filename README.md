@@ -34,10 +34,10 @@ I'm <b>mechatronic engineer</b> currently working in the <b>mechanical engeneeri
 
   <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
 <br>
+
+</div>
   <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=
 Phaser3-Parallax-Example" />
-</div>
-
 
 
 <div style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">

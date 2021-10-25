@@ -1,11 +1,11 @@
 <br><br><br>
 <h1  align="center"><b> Hi There, I'm Jerome Graves👨‍💻 </b></h1>
 <p  align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="#"><img src="https://img.shields.io/badge/-CodeSandbox-black?style=for-the-badge&logo=CodeSandbox" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGatelogoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-JeromeGraves.com-green?style=for-the-badge" /></a>  
+<a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="JeromeGraves.com"><img src="https://img.shields.io/badge/-JeromeGraves.com-green?style=for-the-badge" /></a>  
+<a href="https://www.researchgate.net/profile/Jerome_Graves"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGatelogoColor=white" /></a>
+<a href="https://codesandbox.io/u/jerome.a.graves"><img src="https://img.shields.io/badge/-CodeSandbox-black?style=for-the-badge&logo=CodeSandbox" /></a>
+<a href="https://twitter.com/vr_4all"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 
 </p>
 <br>
@@ -35,7 +35,8 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 
 
 <div align="center" style= "grid-auto-rows: 200px;padding:5px">
-  <img  hspace="20" width=40% height=300px style="padding:5px;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" /><img hspace="20"  width=40% height=300px style="object-fit: cover;padding:5px;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
+  <a href="https://github.com/Jerome-Graves/RobotDog">
+  <img  hspace="20" width=40% height=300px style="padding:5px;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" /></a><img hspace="20"  width=40% height=300px style="object-fit: cover;padding:5px;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
   <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />  
 </div>
 
@@ -63,6 +64,9 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 
 
 </div>
+<br><br>
+<h1></h1>
+<h1></h1>
 
 
 

@@ -42,8 +42,9 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 </div>
 
 <div align="center" style= "grid-auto-rows: 200px;padding:5px">
-  <img hspace="20" width=40% height=300px style="object-fit: cover;padding:5px;" src=https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" /><img hspace="20"  width=40% height=300px style="object-fit: cover;padding:5px;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
-  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" />  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=Phaser3-Parallax-Example" />
+<a href="https://github.com/Jerome-Graves/aframe-vue-twitter-storm">
+  <img hspace="20" width=40% height=300px style="object-fit: cover;padding:5px;" src=https://github.com/Jerome-Graves/aframe-vue-twitter-storm/blob/main/twitter-storm.gif?raw=true" /></a><a href="https://github.com/Jerome-Graves/Phaser3-Parallax-Example"><img hspace="20"  width=40% height=300px style="object-fit: cover;padding:5px;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" /></a>
+  <a href="https://github.com/Jerome-Graves/aframe-vue-twitter-storm"><img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-twitter-storm" /></a><a href="https://github.com/Jerome-Graves/Phaser3-Parallax-Example">  <img hspace="20" width=40% style="object-fit: cover;padding:5px;"  src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=Phaser3-Parallax-Example" /></a>
 </div>
 
 <!--

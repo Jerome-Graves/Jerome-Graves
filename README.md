@@ -17,34 +17,34 @@ I'm <b>mechatronic engineer</b> currently working in the <b>mechanical engeneeri
 <h1  align="center"><b> Projects </b></h1>
 
 
-<div align="center" style="margin: auto;width:100%;padding:5px;">
+<div align="center" style="margin: auto;width:auto;padding:5px;">
 
 
-<div  style="width: 40%; height: 40%; overflow: hidden;float: left;padding:10px;">
+<div  style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
 
-  <img  width=350px height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" />
+  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/RobotDog/raw/master/images/dog-cad-live.gif?raw=true" />
 <br>
-  <img  width=350px src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />
+  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=robotDog" />
 </div>
 
 
 
 
-<div style="width: 40%; height: 40%; overflow: hidden;float: left;padding:10px;">
+<div style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
 
-  <img  width=350px height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
+  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/Phaser3-Parallax-Example/blob/main/example-gif.gif?raw=true" />
 <br>
-  <img  width=350px src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=
+  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=
 Phaser3-Parallax-Example" />
 </div>
 
 
 
-<div style="width: 40%; height: 40%; overflow: hidden;float: left;padding:10px;">
+<div style="width: 80%; height: 40%; overflow: hidden;float: center;padding:10px;">
 
-  <img  width=350px height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
+  <img  width=100% height=300px style="object-fit: cover;" src="https://github.com/Jerome-Graves/aframe-vue-elephant-head/blob/main/elephant-head.gif?raw=true" />
 <br>
-  <img  width=350px src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
+  <img  width=100% src="https://github-readme-stats.vercel.app/api/pin/?username=Jerome-Graves&repo=aframe-vue-elephant-head" />
 </div>
 
 

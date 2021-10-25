@@ -67,7 +67,10 @@ I'm <b>mechatronic engineer</b> currently working in R&D the <b>Mechanical Engen
 
 </div>
 <br><br>
-<h1></h1>
+<h1 align="center">Contact me!</h1>
+<p align="center">
+<a href="mailto:jerome.a.graves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+</p>
 <h1></h1>
 
 

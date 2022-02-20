@@ -1,6 +1,7 @@
 <br><br><br>
 <h1  align="center"><b>Jerome Graves <h3 align="center">Robotics engineer </b>
 <p  align="center">
+<br>
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://JeromeGraves.com"><img src="https://img.shields.io/badge/-JeromeGraves.com-green?style=for-the-badge" /></a>  
 <a href="https://www.researchgate.net/profile/Jerome_Graves"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGatelogoColor=white" /></a>

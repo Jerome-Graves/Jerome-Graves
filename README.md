@@ -11,7 +11,7 @@
 </h3> </h1>
 <p align="center"> Robotics engineer, creator of the Yertle</b> quadruped, mechatronic design engineer. <br>Control software for computer vision enabled robots. <br><br> For examples of my work please see the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> project.
 <br>
-<img width="10" style="border: 5px solid #000;border-radius:50px; display: block;margin-left: auto;margin-right: auto; width: 30%;" src="https://user-images.githubusercontent.com/12387040/154842373-42b3cce0-2450-4362-b23c-a2e9c3eca3d5.png">
+<img width="10" style="border: 5px solid #000;border-radius:50px; display: block;margin-left: auto;margin-right: auto; width: 50%;" src="https://user-images.githubusercontent.com/12387040/154842373-42b3cce0-2450-4362-b23c-a2e9c3eca3d5.png">
 </p>
 
 <p align="center">

@@ -9,12 +9,13 @@
 <a href="https://twitter.com/vr_4all"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 </h3> </h1>
-<p align="center"> Engineer, Reseacher, Phd Student, creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <strong>SPE3D Ultrasonic Lab</strong> at London South Bank University. I'm currently working on Three-Dimensional Imaging of Ice Cores.
+<p align="center"> Engineer, Researcher, Phd Student, creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a> at London South Bank University. I'm currently working on three-dimensional imaging of ice cores. I have previously worked on developing high-speed Industrial thermal transfer overprinters.
 
 <br>
+<!--
 <img width="10" style="border: 5px solid #000;border-radius:50px; display: block;margin-left: auto;margin-right: auto; width: 50%;" src="https://user-images.githubusercontent.com/12387040/154842373-42b3cce0-2450-4362-b23c-a2e9c3eca3d5.png">
 </p>
-
+-->
 <p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

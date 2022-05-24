@@ -1,5 +1,5 @@
 <br><br><br>
-<h1  align="center"><b>Jerome Graves <h3 align="center">Robotics Engineer </b>
+<h1  align="center"><b>Jerome Graves <h3 align="center">Research Engineer </b>
 <p  align="center">
 <br>
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -9,7 +9,8 @@
 <a href="https://twitter.com/vr_4all"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 </h3> </h1>
-<p align="center"> Robotics engineer, creator of the Yertle</b> quadruped, mechatronic design engineer. <br>Control software for computer vision enabled robots. <br><br> For examples of my work please see the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> project.
+<p align="center"> Engineer, Reseacher, Phd Student, creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <strong>SPE3D Ultrasonic Lab</strong> at London South Bank University. I'm currently working on Three-Dimensional Imaging of Ice Cores.
+
 <br>
 <img width="10" style="border: 5px solid #000;border-radius:50px; display: block;margin-left: auto;margin-right: auto; width: 50%;" src="https://user-images.githubusercontent.com/12387040/154842373-42b3cce0-2450-4362-b23c-a2e9c3eca3d5.png">
 </p>

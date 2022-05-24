@@ -9,7 +9,7 @@
 <a href="https://twitter.com/vr_4all"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 </h3> </h1>
-<p align="center"> Engineer, Researcher, Phd Student, creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a> at London South Bank University. I'm currently working on three-dimensional imaging of ice cores. I have previously worked on developing high-speed Industrial thermal transfer overprinters.
+<p align="center"> Engineer, Researcher, Phd Student, creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a> at London South Bank University. I'm currently working on three-dimensional imaging of ice cores. I have previously worked on developing industrial thermal transfer overprinters.
 
 <br>
 <!--

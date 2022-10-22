@@ -1,5 +1,5 @@
 <br><br><br>
-<h1  align="center"><b>Jerome Graves <h3 align="center">Research Engineer </b>
+<h1  align="center"><b>Jerome Graves <h3 align="center">Doctoral Researcher | Engineer </b>
 <p  align="center">
 <br>
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -9,7 +9,7 @@
 <a href="https://twitter.com/vr_4all"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 </h3> </h1>
-<p align="center"> Engineer, Researcher, Phd Student, creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a> at London South Bank University. I'm currently working on three-dimensional imaging of ice cores. I have previously worked on developing industrial thermal transfer overprinters.
+<p align="center"> Doctoral Researcher and creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped. Currently member of the <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a> at London South Bank University. I am currently working on ultrasonic imaging of arctic ice.
 
 <br>
 <!--

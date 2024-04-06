@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://JeromeGraves.com"><img src="https://img.shields.io/badge/-JeromeGraves.com-green?style=for-the-badge" /></a>  
 <a href="https://www.researchgate.net/profile/Jerome_Graves"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGatelogoColor=white" /></a>
-<a href="https://codesandbox.io/u/jerome.a.graves"><img src="https://img.shields.io/badge/-CodeSandbox-black?style=for-the-badge&logo=CodeSandbox" /></a>
 <a href="https://twitter.com/vr_4all"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
 </h3> </h1>

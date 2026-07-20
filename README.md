@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">Jerome Graves</h1>
-<h3 align="center">Embedded and FPGA Engineer &middot; Robotics and Electromechanical Systems &middot; PhD, Electronic Engineering</h3>
+<h3 align="center">R&amp;D Engineer &middot; Ultrasonics, Robotics and Machine Vision &middot; PhD, Electronic Engineering</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,20 +11,20 @@
 </p>
 
 <p align="center">
-I design and build embedded and FPGA-based systems that control real, moving hardware: robots, instruments, and industrial machines. My work runs end to end, from VHDL/RTL with HDL verification and C/C++ firmware on microcontrollers and FreeRTOS, through to ROS-based control and the custom PCBs underneath, backed by a PhD in ultrasonic signal processing.
+I design and build instruments that unite physics, sensing, control and software: ultrasonic imaging systems, machine vision instruments, robots and industrial machines. My work runs end to end, from wave physics and inversion algorithms through C/C++ firmware, FPGA design and custom PCBs, to validated, deployed hardware.
 </p>
 
 <p align="center">
-Creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped robot and founder of BugBotLab. Currently completing my PhD at the <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a>, London South Bank University.
+PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a>, London South Bank University) on 3D ultrasound imaging of the crystal structure of ice cores. Creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped robot and founder of BugBotLab.
 </p>
 
 <h3 align="center">What I build</h3>
 <p align="center">
-FPGA / RTL design and verification &middot; Embedded firmware (C, C++, FreeRTOS) &middot; Robotics and motion control &middot; Signal processing and instrumentation
+Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Robotics and motion control &middot; Embedded firmware (C, C++, FreeRTOS) &middot; FPGA / RTL design and verification
 </p>
 
 <p align="center">
-<em>Currently building: a real-time ultrasonic DSP pipeline on FPGA with a custom analog front-end, verified against a MATLAB reference model.</em>
+<em>Currently building: <a href="https://github.com/Jerome-Graves/openUSCT">OpenUSCT</a>, an open platform for ultrasound computed tomography spanning FPGA hardware, Python/C++/GPU software and simulation.</em>
 </p>
 
 <p align="center">

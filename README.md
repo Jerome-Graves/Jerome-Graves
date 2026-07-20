@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://JeromeGraves.com"><img src="https://img.shields.io/badge/-JeromeGraves.com-2ea44f?style=for-the-badge" /></a>
 <a href="https://www.researchgate.net/profile/Jerome_Graves"><img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=aPz1GpIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="mailto:jerome.a.graves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

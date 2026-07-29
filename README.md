@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Jerome Graves</h1>
+<h1 align="center">Dr. Jerome Graves</h1>
 <h3 align="center">R&amp;D Engineer &middot; Ultrasonics, Instrumentation &amp; Robotics &middot; PhD, Electronic Engineering</h3>
 
 <p align="center">

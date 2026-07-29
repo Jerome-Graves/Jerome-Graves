@@ -1,7 +1,7 @@
 <br>
 
 <h1 align="center">Jerome Graves</h1>
-<h3 align="center">R&amp;D Engineer &middot; Ultrasonics, Robotics and Machine Vision &middot; PhD, Electronic Engineering</h3>
+<h3 align="center">R&amp;D Engineer &middot; Ultrasonics, Instrumentation &amp; Robotics &middot; PhD, Electronic Engineering</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jerome-graves/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,7 +16,7 @@ I design and build instruments that unite physics, sensing, control and software
 </p>
 
 <p align="center">
-PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a>, London South Bank University) on 3D ultrasound imaging of the crystal structure of ice cores. Creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped robot and founder of BugBotLab.
+PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a>, London South Bank University) on 3D ultrasound imaging of the crystal structure of ice cores. Creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped robot (145 stars) and a suite of open-source ultrasonic instruments.
 </p>
 
 <h3 align="center">What I build</h3>
@@ -24,8 +24,13 @@ PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team
 Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Robotics and motion control &middot; Embedded firmware (C, C++, FreeRTOS) &middot; FPGA / RTL design and verification
 </p>
 
+<h3 align="center">Featured work</h3>
+
 <p align="center">
-<em>Currently building: <a href="https://github.com/Jerome-Graves/openUSCT">OpenUSCT</a>, an open platform for ultrasound computed tomography spanning FPGA hardware, Python/C++/GPU software and simulation.</em>
+<b><a href="https://github.com/Jerome-Graves/openUSCT">OpenUSCT</a></b>: open-source ultrasound computed tomography (full-waveform inversion in Python, C++ and GPU; FPGA acquisition in SystemVerilog; browser studio)<br><br>
+<b><a href="https://github.com/Jerome-Graves/fabric-analyser">Fabric Analyser</a></b>: machine-vision instrument for crystal-orientation measurement (RP2350 firmware, Python/OpenCV, KiCad)<br><br>
+<b><a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound">Ice CNC Ultrasound</a></b>: five-axis pitch-catch ultrasonic core scanner (Marlin motion, Python acquisition)<br><br>
+<b><a href="https://github.com/Jerome-Graves/yertle">Yertle</a></b>: 3D-printed ROS quadruped for locomotion research (145 stars)
 </p>
 
 <p align="center">

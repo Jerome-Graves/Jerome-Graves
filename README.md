@@ -27,6 +27,8 @@ Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Ro
 <h3 align="center">Featured work</h3>
 
 <p align="center">
+<b><a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-scanner">Pulse-Echo Azimuthal Scanner</a></b>: ultrasonic instrument that measures the crystal orientation fabric of ice cores (custom RP2040 controller board, sensorless homing and force-controlled docking, Streamlit control app, full machine manual)<br><br>
+<b><a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-simulation">Pulse-Echo Azimuthal Simulation</a></b>: the scanner's digital twin (anisotropic GPU FDTD validated against an independent finite-element solver, acquisition error model, fabric inversion)<br><br>
 <b><a href="https://github.com/Jerome-Graves/openUSCT">OpenUSCT</a></b>: open-source ultrasound computed tomography (full-waveform inversion in Python, C++ and GPU; FPGA acquisition in SystemVerilog; browser studio)<br><br>
 <b><a href="https://github.com/Jerome-Graves/fabric-analyser">Fabric Analyser</a></b>: machine-vision instrument for crystal-orientation measurement (RP2350 firmware, Python/OpenCV, KiCad)<br><br>
 <b><a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound">Ice CNC Ultrasound</a></b>: five-axis pitch-catch ultrasonic core scanner (Marlin motion, Python acquisition)<br><br>

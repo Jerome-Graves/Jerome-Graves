@@ -11,9 +11,9 @@
 // service at view time. If this workflow ever stops running the README stays
 // exactly as it last was rather than filling with broken images.
 //
-// Layout is a two-column table per group: identity and metadata on the left,
-// prose on the right. Left-aligned deliberately. The rest of the profile is
-// centred, which suits a header and is hard work for a list of ten projects.
+// Four columns per group: project, prose, language, stars. Language and stars
+// get their own columns so they line up down the page and can be scanned,
+// rather than being buried at the end of a paragraph.
 //
 // Node 20+, no dependencies.
 
@@ -46,7 +46,12 @@ const out = [];
 let total = 0;
 
 for (const group of cfg.groups) {
-    out.push(`<h3>${group.heading}</h3>`, "", "| | |", "|:--|:--|");
+    out.push(
+        `<h3>${group.heading}</h3>`,
+        "",
+        "| Project | What it is | Language | Stars |",
+        "|:--|:--|:--|--:|"
+    );
 
     for (const entry of group.repos) {
         const owner = entry.owner ?? cfg.owner;
@@ -54,18 +59,21 @@ for (const group of cfg.groups) {
 
         // The repo's own description is the fallback, so a repo with no
         // override has exactly one place its wording lives.
-        const blurb = entry.blurb ?? d.description ?? "";
+        let blurb = entry.blurb ?? d.description ?? "";
+
+        // A repository that has its homepage set gets a link, so the live URL
+        // lives on the repo where it belongs rather than being typed here too.
+        if (d.homepage) {
+            blurb += ` <a href="${d.homepage}">Try it here.</a>`;
+        }
         const name = entry.name ?? d.name;
+        const lang = d.language ? "`" + d.language + "`" : "";
+        const stars = `<a href="${d.html_url}/stargazers">&#9733;&nbsp;${d.stargazers_count}</a>`;
 
-        const meta = [];
-        if (d.language) meta.push(`\`${d.language}\``);
-        meta.push(`<a href="${d.html_url}/stargazers">&#9733; ${d.stargazers_count}</a>`);
-
-        // Left cell: what it is called and what it is made of. Right cell: prose.
-        out.push(`| **<a href="${d.html_url}">${name}</a>**<br><sub>${meta.join(" &middot; ")}</sub> | ${blurb} |`);
+        out.push(`| **<a href="${d.html_url}">${name}</a>** | ${blurb} | ${lang} | ${stars} |`);
 
         total++;
-        console.log(`  ${(owner + "/" + entry.repo).padEnd(46)} ${String(d.stargazers_count).padStart(4)} stars  ${d.language ?? "-"}`);
+        console.log(`  ${(owner + "/" + entry.repo).padEnd(46)} ${String(d.stargazers_count).padStart(4)}  ${d.language ?? "-"}`);
     }
     out.push("");
 }

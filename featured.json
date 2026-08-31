@@ -74,7 +74,7 @@
         {
           "repo": "rd-prep",
           "name": "R&amp;D Prep",
-          "blurb": "Interactive refresher for R&amp;D and embedded interviews, <a href=\"https://jerome-graves.github.io/rd-prep/\">live here</a>. Lessons, a question bank and code drills that are compiled and run for real by GCC. One static page, no framework and no build step."
+          "blurb": "Interactive refresher for R&amp;D and embedded interviews. Lessons, a question bank and code drills that are compiled and run for real by GCC. One static page, no framework and no build step."
         },
         {
           "repo": "TheCodingIndustryWhitePaper",

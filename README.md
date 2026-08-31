@@ -33,28 +33,28 @@ Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Ro
 
 <h3>Ultrasonic instruments</h3>
 
-| | |
-|:--|:--|
-| **<a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-scanner">Pulse-Echo Azimuthal Scanner</a>**<br><sub>`Python` &middot; <a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-scanner/stargazers">&#9733; 1</a></sub> | Ultrasonic instrument measuring the crystal orientation fabric of ice cores. Custom RP2040 controller board, sensorless homing and force-controlled docking, Streamlit control app, and a full machine manual. |
-| **<a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-simulation">Pulse-Echo Azimuthal Simulation</a>**<br><sub>`Python` &middot; <a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-simulation/stargazers">&#9733; 0</a></sub> | The scanner's digital twin. Anisotropic GPU FDTD validated against an independent finite-element solver, an acquisition error model, and fabric inversion. |
-| **<a href="https://github.com/Jerome-Graves/openUSCT">OpenUSCT</a>**<br><sub>`Python` &middot; <a href="https://github.com/Jerome-Graves/openUSCT/stargazers">&#9733; 5</a></sub> | Open-source ultrasound computed tomography. Full-waveform inversion in Python, C++ and GPU, FPGA acquisition in SystemVerilog, and a browser studio. |
-| **<a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound">Ice CNC Ultrasound</a>**<br><sub>`Python` &middot; <a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound/stargazers">&#9733; 0</a></sub> | Five-axis pitch-catch ultrasonic core scanner. Marlin-based motion, load-cell coupling interlock, Python acquisition stack. Built for the PhD. |
-| **<a href="https://github.com/Jerome-Graves/fabric-analyser">Fabric Analyser</a>**<br><sub>`Python` &middot; <a href="https://github.com/Jerome-Graves/fabric-analyser/stargazers">&#9733; 1</a></sub> | Machine-vision instrument for crystal-orientation measurement in ice-core thin sections. RP2350 firmware, Python and OpenCV, KiCad hardware. |
+| Project | What it is | Language | Stars |
+|:--|:--|:--|--:|
+| **<a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-scanner">Pulse-Echo Azimuthal Scanner</a>** | Ultrasonic instrument measuring the crystal orientation fabric of ice cores. Custom RP2040 controller board, sensorless homing and force-controlled docking, Streamlit control app, and a full machine manual. | `Python` | <a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-scanner/stargazers">&#9733;&nbsp;1</a> |
+| **<a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-simulation">Pulse-Echo Azimuthal Simulation</a>** | The scanner's digital twin. Anisotropic GPU FDTD validated against an independent finite-element solver, an acquisition error model, and fabric inversion. | `Python` | <a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-simulation/stargazers">&#9733;&nbsp;0</a> |
+| **<a href="https://github.com/Jerome-Graves/openUSCT">OpenUSCT</a>** | Open-source ultrasound computed tomography. Full-waveform inversion in Python, C++ and GPU, FPGA acquisition in SystemVerilog, and a browser studio. <a href="https://jeromegraves.com/openUSCT/">Try it here.</a> | `Python` | <a href="https://github.com/Jerome-Graves/openUSCT/stargazers">&#9733;&nbsp;5</a> |
+| **<a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound">Ice CNC Ultrasound</a>** | Five-axis pitch-catch ultrasonic core scanner. Marlin-based motion, load-cell coupling interlock, Python acquisition stack. Built for the PhD. | `Python` | <a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound/stargazers">&#9733;&nbsp;0</a> |
+| **<a href="https://github.com/Jerome-Graves/fabric-analyser">Fabric Analyser</a>** | Machine-vision instrument for crystal-orientation measurement in ice-core thin sections. RP2350 firmware, Python and OpenCV, KiCad hardware. | `Python` | <a href="https://github.com/Jerome-Graves/fabric-analyser/stargazers">&#9733;&nbsp;1</a> |
 
 <h3>Robotics and embedded</h3>
 
-| | |
-|:--|:--|
-| **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>**<br><sub>`Python` &middot; <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733; 154</a></sub> | 3D-printed quadruped robot for locomotion research, on ROS. |
-| **<a href="https://github.com/Jerome-Graves/meowtion">Meowtion</a>**<br><sub>`C` &middot; <a href="https://github.com/Jerome-Graves/meowtion/stargazers">&#9733; 15</a></sub> | Smart cat collar that spots illness early by watching habits. On-device AI over a confidence-gated cascade, nRF52840 collar on Zephyr, ESP32-S3 base station, cloud training and a live dashboard. |
-| **<a href="https://github.com/BugBotLab/bugbot">BugBot</a>**<br><sub>`C` &middot; <a href="https://github.com/BugBotLab/bugbot/stargazers">&#9733; 1</a></sub> | Holonomic X-omni robot for teaching AI and engineering at 16 to 19. ESP32-S3 firmware and a web control UI. |
+| Project | What it is | Language | Stars |
+|:--|:--|:--|--:|
+| **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>** | 3D-printed quadruped robot for locomotion research, on ROS. | `Python` | <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733;&nbsp;154</a> |
+| **<a href="https://github.com/Jerome-Graves/meowtion">Meowtion</a>** | Smart cat collar that spots illness early by watching habits. On-device AI over a confidence-gated cascade, nRF52840 collar on Zephyr, ESP32-S3 base station, cloud training and a live dashboard. <a href="https://meowtion.streamlit.app">Try it here.</a> | `C` | <a href="https://github.com/Jerome-Graves/meowtion/stargazers">&#9733;&nbsp;15</a> |
+| **<a href="https://github.com/BugBotLab/bugbot">BugBot</a>** | Holonomic X-omni robot for teaching AI and engineering at 16 to 19. ESP32-S3 firmware and a web control UI. | `C` | <a href="https://github.com/BugBotLab/bugbot/stargazers">&#9733;&nbsp;1</a> |
 
 <h3>Tools and writing</h3>
 
-| | |
-|:--|:--|
-| **<a href="https://github.com/Jerome-Graves/rd-prep">R&amp;D Prep</a>**<br><sub>`JavaScript` &middot; <a href="https://github.com/Jerome-Graves/rd-prep/stargazers">&#9733; 0</a></sub> | Interactive refresher for R&amp;D and embedded interviews, <a href="https://jerome-graves.github.io/rd-prep/">live here</a>. Lessons, a question bank and code drills that are compiled and run for real by GCC. One static page, no framework and no build step. |
-| **<a href="https://github.com/Jerome-Graves/TheCodingIndustryWhitePaper">The Coding Industry</a>**<br><sub>`TeX` &middot; <a href="https://github.com/Jerome-Graves/TheCodingIndustryWhitePaper/stargazers">&#9733; 1</a></sub> | White paper on product coding and marking in manufacturing, arguing that laser displaces ink on cost structure rather than on print quality. XeLaTeX. |
+| Project | What it is | Language | Stars |
+|:--|:--|:--|--:|
+| **<a href="https://github.com/Jerome-Graves/rd-prep">R&amp;D Prep</a>** | Interactive refresher for R&amp;D and embedded interviews. Lessons, a question bank and code drills that are compiled and run for real by GCC. One static page, no framework and no build step. <a href="https://jerome-graves.github.io/rd-prep/">Try it here.</a> | `JavaScript` | <a href="https://github.com/Jerome-Graves/rd-prep/stargazers">&#9733;&nbsp;0</a> |
+| **<a href="https://github.com/Jerome-Graves/TheCodingIndustryWhitePaper">The Coding Industry</a>** | White paper on product coding and marking in manufacturing, arguing that laser displaces ink on cost structure rather than on print quality. XeLaTeX. | `TeX` | <a href="https://github.com/Jerome-Graves/TheCodingIndustryWhitePaper/stargazers">&#9733;&nbsp;1</a> |
 <!-- FEATURED:END -->
 
 ---

@@ -1,0 +1,61 @@
+# Keep the Featured work block in README.md current.
+#
+# The star count used to be typed in by hand and was wrong within a week. This
+# regenerates that block from the GitHub API and commits it only when something
+# actually changed, so the history stays readable rather than filling with a
+# daily no-op commit.
+#
+# It renders to plain markup rather than embedding a third-party badge service,
+# so the profile has nothing to depend on at view time. If this workflow stops
+# running the README simply stays as it last was.
+name: refresh readme
+
+on:
+  schedule:
+    # Daily, deliberately off the hour: scheduled jobs at :00 queue behind
+    # everyone else's and can be delayed by many minutes.
+    - cron: "17 5 * * *"
+  push:
+    branches: [main]
+    paths:
+      - featured.json
+      - tools/refresh-readme.mjs
+      - .github/workflows/refresh-readme.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # No dependencies to install. Node 20 has fetch built in.
+      - name: Regenerate the featured block
+        env:
+          # Supplied automatically. Only used to lift the API rate limit;
+          # public repository data needs no special scope.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node tools/refresh-readme.mjs
+
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already current, nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh featured work from the GitHub API"
+          git push

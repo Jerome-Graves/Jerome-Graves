@@ -1,0 +1,56 @@
+{
+  "owner": "Jerome-Graves",
+
+  "//": [
+    "Featured work, rendered into README.md by tools/refresh-readme.mjs.",
+    "Edit this file, not the README: the block between the FEATURED markers is",
+    "overwritten on every run.",
+    "",
+    "blurb is optional. Leave it out and the repository's own GitHub description",
+    "is used instead, which keeps one source of truth. Set it when the profile",
+    "wants to say something different from what the repo page says.",
+    "",
+    "Stars are fetched live and only printed above minStars, because a row of",
+    "zeroes reads worse than no number at all."
+  ],
+
+  "minStars": 10,
+
+  "repos": [
+    {
+      "repo": "pulse-echo-azimuthal-scanner",
+      "name": "Pulse-Echo Azimuthal Scanner",
+      "blurb": "ultrasonic instrument that measures the crystal orientation fabric of ice cores (custom RP2040 controller board, sensorless homing and force-controlled docking, Streamlit control app, full machine manual)"
+    },
+    {
+      "repo": "pulse-echo-azimuthal-simulation",
+      "name": "Pulse-Echo Azimuthal Simulation",
+      "blurb": "the scanner's digital twin (anisotropic GPU FDTD validated against an independent finite-element solver, acquisition error model, fabric inversion)"
+    },
+    {
+      "repo": "openUSCT",
+      "name": "OpenUSCT",
+      "blurb": "open-source ultrasound computed tomography (full-waveform inversion in Python, C++ and GPU; FPGA acquisition in SystemVerilog; browser studio)"
+    },
+    {
+      "repo": "fabric-analyser",
+      "name": "Fabric Analyser",
+      "blurb": "machine-vision instrument for crystal-orientation measurement (RP2350 firmware, Python/OpenCV, KiCad)"
+    },
+    {
+      "repo": "ice-cnc-ultrasound",
+      "name": "Ice CNC Ultrasound",
+      "blurb": "five-axis pitch-catch ultrasonic core scanner (Marlin motion, Python acquisition)"
+    },
+    {
+      "repo": "yertle",
+      "name": "Yertle",
+      "blurb": "3D-printed ROS quadruped for locomotion research"
+    },
+    {
+      "repo": "rd-prep",
+      "name": "R&amp;D Prep",
+      "blurb": "interactive refresher for R&amp;D and embedded interviews, <a href=\"https://jerome-graves.github.io/rd-prep/\">live here</a> (lessons, question bank and code drills compiled and run for real by GCC; one static page, no framework and no build step)"
+    }
+  ]
+}

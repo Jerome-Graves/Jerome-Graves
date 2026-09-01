@@ -24,13 +24,15 @@ PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team
 Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Robotics and motion control &middot; Embedded firmware (C, C++, FreeRTOS) &middot; FPGA / RTL design and verification
 </p>
 
-<!-- One image, sourced by raw URL from the yertle repository rather than
-     copied in. Four small stills competed with each other; a real robot
-     moving is the thing anybody actually remembers. -->
+<!-- One image: the "Robot in action" clip from the top of the yertle
+     README, so the two stay consistent. Four small stills competed with
+     each other; the real robot moving is what anybody remembers.
+     It is 270px native, so 400 matches how yertle presents it and does
+     not upscale it into mush. -->
 <p align="center">
 <a href="https://github.com/Jerome-Graves/yertle">
-<img src="https://raw.githubusercontent.com/Jerome-Graves/yertle/main/media/yertle_demo.gif"
-     width="560" alt="The Yertle quadruped robot standing up and sitting down" />
+<img src="https://user-images.githubusercontent.com/12387040/159661633-2cda4357-3ed2-483c-bc63-b13c3e34d269.gif"
+     width="400" alt="The Yertle quadruped robot moving on a desk" />
 </a>
 </p>
 

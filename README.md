@@ -24,13 +24,14 @@ PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team
 Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Robotics and motion control &middot; Embedded firmware (C, C++, FreeRTOS) &middot; FPGA / RTL design and verification
 </p>
 
-<!-- Images are raw URLs from the repositories themselves, so nothing is
-     duplicated here and each stays current with its own repo. -->
+<!-- One image, sourced by raw URL from the yertle repository rather than
+     copied in. Four small stills competed with each other; a real robot
+     moving is the thing anybody actually remembers. -->
 <p align="center">
-<a href="https://github.com/Jerome-Graves/pulse-echo-azimuthal-scanner"><img src="https://raw.githubusercontent.com/Jerome-Graves/pulse-echo-azimuthal-scanner/master/docs/figures/machine-render.png" height="140" alt="Render of the pulse-echo azimuthal scanner" /></a>
-<a href="https://github.com/Jerome-Graves/ice-cnc-ultrasound"><img src="https://raw.githubusercontent.com/Jerome-Graves/ice-cnc-ultrasound/master/docs/figures/instrument.jpg" height="140" alt="The five-axis ice core ultrasound scanner" /></a>
-<a href="https://github.com/Jerome-Graves/yertle"><img src="https://raw.githubusercontent.com/Jerome-Graves/yertle/main/isaac_lab/media/yertle_isaac_walk.gif" height="140" alt="The Yertle quadruped walking in simulation" /></a>
-<a href="https://github.com/Jerome-Graves/fabric-analyser"><img src="https://raw.githubusercontent.com/Jerome-Graves/fabric-analyser/main/docs/figures/grainmap_B003.png" height="140" alt="A crystal grain map measured by the fabric analyser" /></a>
+<a href="https://github.com/Jerome-Graves/yertle">
+<img src="https://raw.githubusercontent.com/Jerome-Graves/yertle/main/media/yertle_demo.gif"
+     width="560" alt="The Yertle quadruped robot standing up and sitting down" />
+</a>
 </p>
 
 

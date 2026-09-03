@@ -58,7 +58,7 @@ Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Ro
 
 | Project | What it is | Language | Stars |
 |:--|:--|:--|--:|
-| **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>** | 3D-printed quadruped robot for locomotion research, on ROS. | `Python` | <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733;&nbsp;154</a> |
+| **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>** | 3D-printed quadruped robot for locomotion research, on ROS. | `Python` | <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733;&nbsp;155</a> |
 | **<a href="https://github.com/Jerome-Graves/meowtion">Meowtion</a>** | Smart cat collar that spots illness early by watching habits. On-device AI over a confidence-gated cascade, nRF52840 collar on Zephyr, ESP32-S3 base station, cloud training and a live dashboard. <a href="https://meowtion.streamlit.app">Try it here.</a> | `C` | <a href="https://github.com/Jerome-Graves/meowtion/stargazers">&#9733;&nbsp;15</a> |
 | **<a href="https://github.com/BugBotLab/bugbot">BugBot</a>** | Holonomic X-omni robot for teaching AI and engineering at 16 to 19. ESP32-S3 firmware and a web control UI. | `C` | <a href="https://github.com/BugBotLab/bugbot/stargazers">&#9733;&nbsp;1</a> |
 

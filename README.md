@@ -19,6 +19,10 @@ I design and build instruments that unite physics, sensing, control and software
 PhD in Electronic Engineering (2026, <a href="https://sevanharput.github.io/team/">SPE3D Ultrasonic Lab</a>, London South Bank University) on 3D ultrasound imaging of the crystal structure of ice cores. Creator of the <a href="https://github.com/Jerome-Graves/yertle">Yertle</a> quadruped robot and a suite of open-source ultrasonic instruments.
 </p>
 
+<p align="center">
+Founder of <a href="https://www.bugbotlab.com/">BugBotLab</a>: a tiny robot and <a href="https://www.bugbotlab.com/learn/">400 free lessons</a> that teach GCSE and A level computer science, robotics and university-level control, estimation and planning, all in Python on a simulated robot.
+</p>
+
 <h3 align="center">What I build</h3>
 <p align="center">
 Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Robotics and motion control &middot; Embedded firmware (C, C++, FreeRTOS) &middot; FPGA / RTL design and verification
@@ -60,7 +64,7 @@ Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Ro
 |:--|:--|:--|--:|
 | **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>** | 3D-printed quadruped robot for locomotion research, on ROS. | `Python` | <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733;&nbsp;158</a> |
 | **<a href="https://github.com/Jerome-Graves/meowtion">Meowtion</a>** | Smart cat collar that spots illness early by watching habits. On-device AI over a confidence-gated cascade, nRF52840 collar on Zephyr, ESP32-S3 base station, cloud training and a live dashboard. <a href="https://meowtion.streamlit.app">Try it here.</a> | `C` | <a href="https://github.com/Jerome-Graves/meowtion/stargazers">&#9733;&nbsp;16</a> |
-| **<a href="https://github.com/BugBotLab/bugbot">BugBot</a>** | Holonomic X-omni robot for teaching AI and engineering at 16 to 19. ESP32-S3 firmware and a web control UI. |  | <a href="https://github.com/BugBotLab/bugbot/stargazers">&#9733;&nbsp;1</a> |
+| **<a href="https://github.com/BugBotLab/bugbot">BugBot</a>** | Small holonomic robot for teaching robotics and computer science, and the company I founded around it. ESP32-P4 vision, motor and odometry boards in KiCad, C firmware under a Python API shared with the simulator, and 400 free lessons from GCSE to university. <a href="https://www.bugbotlab.com/learn/">Try the lessons.</a> |  | <a href="https://github.com/BugBotLab/bugbot/stargazers">&#9733;&nbsp;1</a> |
 
 <h3>Tools and writing</h3>
 

@@ -64,7 +64,7 @@
           "owner": "BugBotLab",
           "repo": "bugbot",
           "name": "BugBot",
-          "blurb": "Holonomic X-omni robot for teaching AI and engineering at 16 to 19. ESP32-S3 firmware and a web control UI."
+          "blurb": "Small holonomic robot for teaching robotics and computer science, and the company I founded around it. ESP32-P4 vision, motor and odometry boards in KiCad, C firmware under a Python API shared with the simulator, and 400 free lessons from GCSE to university. <a href=\"https://www.bugbotlab.com/learn/\">Try the lessons.</a>"
         }
       ]
     },

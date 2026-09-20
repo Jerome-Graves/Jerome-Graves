@@ -38,6 +38,12 @@ const headers = {
 
 async function fetchRepo(owner, repo) {
     const r = await fetch(`https://api.github.com/repos/${owner}/${repo}`, { headers });
+    // A repository that has gone private, been renamed or been deleted is not worth failing the whole
+    // run for: leave it out of the table and say so, so the rest of the profile still refreshes.
+    if (r.status === 404) {
+        console.warn(`${owner}/${repo}: not found, left out`);
+        return null;
+    }
     if (!r.ok) throw new Error(`${owner}/${repo}: HTTP ${r.status} ${(await r.text()).slice(0, 200)}`);
     return r.json();
 }
@@ -56,6 +62,7 @@ for (const group of cfg.groups) {
     for (const entry of group.repos) {
         const owner = entry.owner ?? cfg.owner;
         const d = await fetchRepo(owner, entry.repo);
+        if (!d) continue;
 
         // The repo's own description is the fallback, so a repo with no
         // override has exactly one place its wording lives.

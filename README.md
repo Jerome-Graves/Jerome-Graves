@@ -62,7 +62,7 @@ Ultrasonic imaging and inversion &middot; Machine vision instruments &middot; Ro
 
 | Project | What it is | Language | Stars |
 |:--|:--|:--|--:|
-| **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>** | 3D-printed quadruped robot for locomotion research, on ROS. | `Python` | <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733;&nbsp;159</a> |
+| **<a href="https://github.com/Jerome-Graves/yertle">Yertle</a>** | 3D-printed quadruped robot for locomotion research, on ROS. | `Python` | <a href="https://github.com/Jerome-Graves/yertle/stargazers">&#9733;&nbsp;160</a> |
 | **<a href="https://github.com/Jerome-Graves/meowtion">Meowtion</a>** | Smart cat collar that spots illness early by watching habits. On-device AI over a confidence-gated cascade, nRF52840 collar on Zephyr, ESP32-S3 base station, cloud training and a live dashboard. <a href="https://meowtion.streamlit.app">Try it here.</a> | `C` | <a href="https://github.com/Jerome-Graves/meowtion/stargazers">&#9733;&nbsp;17</a> |
 | **<a href="https://github.com/BugBotLab/bugbot-hardware">BugBot</a>** | Small holonomic robot for teaching robotics and computer science, and the company I founded around it. ESP32-P4 vision, motor and odometry boards in KiCad, C firmware under a Python API shared with the simulator, and 400 free lessons from GCSE to university. <a href="https://www.bugbotlab.com/learn/">Try the lessons.</a> | `Python` | <a href="https://github.com/BugBotLab/bugbot-hardware/stargazers">&#9733;&nbsp;0</a> |
 
